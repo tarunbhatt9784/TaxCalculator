@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TaxCalculator", "TaxCalculator\TaxCalculator.csproj", "{8A112259-8F6F-4EEC-BE23-A1FF4B9F8530}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8A112259-8F6F-4EEC-BE23-A1FF4B9F8530}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A112259-8F6F-4EEC-BE23-A1FF4B9F8530}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A112259-8F6F-4EEC-BE23-A1FF4B9F8530}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A112259-8F6F-4EEC-BE23-A1FF4B9F8530}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {634845B0-017D-4113-BC5F-D49EFD9954F6}
+	EndGlobalSection
+EndGlobal

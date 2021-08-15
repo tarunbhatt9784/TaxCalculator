@@ -1,0 +1,5 @@
+C:\Users\tbhatt\source\repos\TaxCalculator\TaxCalculatorUnitTests\bin\Debug\netcoreapp3.1\TaxCalculatorUnitTests.deps.json
+C:\Users\tbhatt\source\repos\TaxCalculator\TaxCalculatorUnitTests\bin\Debug\netcoreapp3.1\TaxCalculatorUnitTests.dll
+C:\Users\tbhatt\source\repos\TaxCalculator\TaxCalculatorUnitTests\obj\Debug\netcoreapp3.1\TaxCalculatorUnitTests.csprojAssemblyReference.cache
+C:\Users\tbhatt\source\repos\TaxCalculator\TaxCalculatorUnitTests\obj\Debug\netcoreapp3.1\TaxCalculatorUnitTests.AssemblyInfoInputs.cache
+C:\Users\tbhatt\source\repos\TaxCalculator\TaxCalculatorUnitTests\obj\Debug\netcoreapp3.1\TaxCalculatorUnitTests.AssemblyInfo.cs
