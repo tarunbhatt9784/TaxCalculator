@@ -1,6 +1,7 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Text;
+using TaxCalculator.TaxCalculation;
 
 namespace TaxCalculator
 {
@@ -15,8 +16,9 @@ namespace TaxCalculator
             taxPayer.IsSingle = true;
             taxPayer.HealthInsuranceAnnualPremium = 3000;
             taxPayer.HasHealthInsurance = true;
-            TaxCalculatorRuleEngine taxCalculatorService = new TaxCalculatorRuleEngine();
-            taxCalculatorService.ProcessTaxReturn(taxPayer);
+            TaxCalculatorService taxCalculatorService = new TaxCalculatorService();
+            taxPayer = taxCalculatorService.ProcessTaxReturn(taxPayer);
+            Console.WriteLine("tax amount ="+taxPayer.TaxedAmount);
         }
     }
 }
